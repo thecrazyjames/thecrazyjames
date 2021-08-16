@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thecrazyjames or just James
-- 👀 I’m interested in FinTech and Data Science
-- 🌱 I’m currently learning Front End Development and mixing in APIs and Back End
-- 💞️ I’m looking to collaborate on getting a coding job!
+- 👀 I’m interested in Web Development, FinTech and Data Science
+- 🌱 Blossoming Full Stack Engineer
 - 📫 How to reach me ... jamescarr1018@gmail.com
 
 <!---
